@@ -2,7 +2,7 @@
 
 ## For Colab
 
-Modify `basedir` and `save_path` to the correct path
+Modify `basedir` to the dataset path and `save_path` to the model path
 
 ## Clone the repo
 

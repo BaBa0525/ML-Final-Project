@@ -19,26 +19,27 @@ cd ML-Final-Project
 
 ## Download Dataset
 
-To download the dataset:
+### [download the dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data)
 
-[Link](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data)
 
 File structure:
 
 ```
 .
+├── 109550050_Final_inference.ipynb
+├── 109550050_Final_train.ipynb
+├── README.md
 ├── dataset
 │   ├── sample_submission.csv
 │   ├── test.csv
 │   └── train.csv
-├── 109550050_Final_train.ipynb
-├── 109550050_Final_inference.ipynb
 ├── model
 │   ├── model_0.joblib
 │   ├── model_1.joblib
 │   ├── model_2.joblib
 │   ├── model_3.joblib
 │   └── model_4.joblib
+├── reproduce-model
 └── requirements.txt
 ```
 
@@ -63,7 +64,7 @@ pip install -r requirements.txt
 1. Open 109550050_Final_train.ipynb
 2. Ensure you are in the virtual environment
 3. Click run all.
-
+4. Find reproduce models in `reproduce-model`
 
 
 ## Inference

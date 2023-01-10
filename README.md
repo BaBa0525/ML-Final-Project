@@ -62,6 +62,7 @@ pip install -r requirements.txt
 2. Ensure you are in the virtual environment
 3. Click run all.
 4. Find reproduce models in `model`
+5. Predict result will be stored in `109550050.csv`
 
 
 ## Inference
@@ -70,10 +71,9 @@ pip install -r requirements.txt
 2. Ensure you are in the virtual environment
 3. Ensure the pretrained models in `./model`
 4. Click run all.
+5. Predict result will be stored in `109550050.csv`
 
 ## Results
-
-Predict result will be stored in `109550050.csv`
 
 Our model achieves the following performance on :
 

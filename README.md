@@ -17,10 +17,11 @@ Enter the repo:
 cd ML-Final-Project
 ```
 
-## Download Dataset
+## Requirements
 
-### [download the dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data)
+### [Download the dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data)
 
+### [Download Pretrained Model](https://drive.google.com/drive/folders/1w23bvOf5d6-CEmAcRDuGHDZ7cowxh8Bi?usp=share_link)
 
 File structure:
 
@@ -39,12 +40,8 @@ File structure:
 │   ├── model_2.joblib
 │   ├── model_3.joblib
 │   └── model_4.joblib
-├── reproduce-model
 └── requirements.txt
 ```
-
-## Requirements
-
 
 To create virtual environment:
 

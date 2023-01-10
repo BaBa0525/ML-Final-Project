@@ -21,7 +21,7 @@ cd ML-Final-Project
 
 ### [Download the dataset](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/data)
 
-### [Download Pretrained Model](https://drive.google.com/drive/folders/1w23bvOf5d6-CEmAcRDuGHDZ7cowxh8Bi?usp=share_link)
+### [Download Pretrained Model (For inference)](https://drive.google.com/drive/folders/1w23bvOf5d6-CEmAcRDuGHDZ7cowxh8Bi?usp=share_link)
 
 File structure:
 
@@ -61,14 +61,15 @@ pip install -r requirements.txt
 1. Open 109550050_Final_train.ipynb
 2. Ensure you are in the virtual environment
 3. Click run all.
-4. Find reproduce models in `reproduce-model`
+4. Find reproduce models in `model`
 
 
 ## Inference
 
 1. Open 109550050_Final_inference.ipynb
 2. Ensure you are in the virtual environment
-3. Click run all.
+3. Ensure the pretrained models in `./model`
+4. Click run all.
 
 ## Results
 

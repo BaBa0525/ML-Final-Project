@@ -1,5 +1,9 @@
 # Final Project
 
+## For Colab
+
+Modify `basedir` and `save_path` to the correct path
+
 ## Clone the repo
 
 SSH:
